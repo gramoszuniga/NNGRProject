@@ -1,0 +1,4 @@
+C:\Users\grz\Desktop\NNGRProject\NNGRProject\NNGRProjectContent\obj\x86\Debug\NNGRProjectContent.contentprojResolveAssemblyReference.cache
+G:\NNGRProject\NNGRProject\NNGRProjectContent\obj\x86\Debug\NNGRProjectContent.contentprojResolveAssemblyReference.cache
+E:\NNGRProject\NNGRProject\NNGRProjectContent\obj\x86\Debug\NNGRProjectContent.contentprojResolveAssemblyReference.cache
+G:\OOGP\NNGRProject\NNGRProject\NNGRProjectContent\obj\x86\Debug\NNGRProjectContent.contentprojResolveAssemblyReference.cache
